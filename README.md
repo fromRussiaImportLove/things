@@ -7,6 +7,9 @@ Simple game, where you can combine elements for created new one. I trained metac
 ### check_brackets_on_swift
 Classic task for checking open and relevant close brackets. Solved by swift.
 
+### pow_2_len.py
+Count the length of a power of 2.
+
 ### simple-auth-system.py
 Learning pythons dictionary with auth system.
 
