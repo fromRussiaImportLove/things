@@ -1,0 +1,4 @@
+
+check health rabbit
+
+["CMD", "bash", "-c", "echo hi > /dev/tcp/localhost/5672"]
